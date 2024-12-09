@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebHK:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/WebHK_Web</output-path>
+    <root id="archive" name="WebHK_Web.war">
+      <element id="artifact" artifact-name="WebHK:Web exploded" />
+    </root>
+  </artifact>
+</component>
